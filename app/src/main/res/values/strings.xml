@@ -1,23 +1,23 @@
 <resources>
     <string name="app_name">Simple Music Player</string>
     <string name="app_launcher_name">Music Player</string>
-    <string name="playlist_empty">Your playlist is empty</string>
-    <string name="rename_song">Rename song</string>
-    <string name="rename_song_error">An error occurred during the renaming</string>
-    <string name="rename_song_empty">Please fill in all fields</string>
-    <string name="enable_song_repetition">Repeat current song</string>
-    <string name="disable_song_repetition">Stop repeating current song</string>
-    <string name="song_repetition_enabled">Current song repetition enabled</string>
-    <string name="song_repetition_disabled">Current song repetition disabled</string>
-    <string name="enable_shuffle">Enable shuffle</string>
-    <string name="disable_shuffle">Disable shuffle</string>
-    <string name="shuffle_enabled">Shuffle enabled</string>
-    <string name="shuffle_disabled">Shuffle disabled</string>
-    <string name="enable_autoplay">Enable autoplay</string>
-    <string name="disable_autoplay">Disable autoplay</string>
-    <string name="autoplay_enabled">Autoplay enabled</string>
-    <string name="autoplay_disabled">Autoplay disabled</string>
-    <string name="sleep_timer">Sleep timer</string>
+    <string name="playlist_empty">你的歌单是空白的</string>
+    <string name="rename_song">重命名歌曲</string>
+    <string name="rename_song_error">重命名歌曲时出错</string>
+    <string name="rename_song_empty">请填写所有栏目</string>
+    <string name="enable_song_repetition">重新播放当前歌曲</string>
+    <string name="disable_song_repetition">停止重复播放当前歌曲</string>
+    <string name="song_repetition_enabled">当前歌曲重播已启用</string>
+    <string name="song_repetition_disabled">当前歌曲重播已停用</string>
+    <string name="enable_shuffle">启用随机播放</string>
+    <string name="disable_shuffle">停用随机播放</string>
+    <string name="shuffle_enabled">随机播放已启用</string>
+    <string name="shuffle_disabled">随机播放已停用</string>
+    <string name="enable_autoplay">启用自动播放</string>
+    <string name="disable_autoplay">停用自动播放</string>
+    <string name="autoplay_enabled">自动播放已启用</string>
+    <string name="autoplay_disabled">自动播放已停用</string>
+    <string name="sleep_timer">睡眠定时</string>
 
     <!-- Playlists -->
     <string name="add_file_to_playlist">Add file to playlist</string>
